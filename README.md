@@ -8,7 +8,6 @@ MOOGH is a desktop AI Agent workspace for individuals and small teams. It brings
 - Project-level context: files, tasks and working state stay together across sessions
 - Extensible: Skills, Plugins and MCP for task-specific capabilities
 - Permission-based execution: review the plan before the agent acts
-- Transparent pricing: subscription from $20/month, top-up $1–100 (1 USD = 60 points), pay per actual usage, no hidden fees
 
 ## What you can do with it
 
