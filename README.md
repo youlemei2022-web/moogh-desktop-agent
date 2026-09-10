@@ -19,11 +19,23 @@ MOOGH is a desktop AI Agent workspace for individuals and small teams. It brings
 ## Quick start
 
 1. Download for Windows from https://www.aimoogh.com/download/
-2. Sign in and pick a plan that fits your usage
+2. Sign in and start - MOOGH is in open testing, with no subscription
 3. Describe a real task in plain language
-4. Review the agent's plan and approve each step
+4. Review the agent plan and approve each step
+
+## Pricing
+
+MOOGH is in open testing. There is no subscription and no lock-in - you pay only for actual usage, with transparent top-ups (1 USD = 60 points) and no hidden fees.
+
+## Docs
+
+- [What is an AI agent desktop client?](docs/what-is-an-ai-agent-desktop-client.md)
+- [Why project context matters for AI agents](docs/why-project-context-matters.md)
+- [What AI Skills, Plugins and MCP do](docs/ai-skills-plugins-mcp-explained.md)
+- [Is an AI agent safe to run on my PC?](docs/is-ai-agent-safe-for-my-pc.md)
 
 ## More
 
 - Official site: https://www.aimoogh.com
-- Support: support@aimoogh.com · Telegram: +1 8203007257
+- Download: https://www.aimoogh.com/download/
+- Support: support@aimoogh.com | Telegram: +1 8203007257
