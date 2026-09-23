@@ -18,7 +18,7 @@ MOOGH is a desktop AI Agent workspace for individuals and small teams. It brings
 
 ## Quick start
 
-1. Download for Windows from https://www.aimoogh.com/download/
+1. Download for Windows from https://agent.aimoogh.com/download
 2. Sign in and start - MOOGH is in open testing, with no subscription
 3. Describe a real task in plain language
 4. Review the agent plan and approve each step
@@ -37,5 +37,5 @@ MOOGH is in open testing. There is no subscription and no lock-in - you pay only
 ## More
 
 - Official site: https://www.aimoogh.com
-- Download: https://www.aimoogh.com/download/
+- Download: https://agent.aimoogh.com/download
 - Support: support@aimoogh.com | Telegram: +1 8203007257
